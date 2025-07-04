@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Welcome to My Garden</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>This is the home page of my digital garden. 🌱 Use the navigation or search to explore my notes!.</description>
+    <pubDate>Fri, 04 Jul 2025 03:38:07 GMT</pubDate>
+  </item><item>
+    <title>Act of Faith</title>
+    <link>https://quartz.jzhao.xyz/Act-of-Faith</link>
+    <guid>https://quartz.jzhao.xyz/Act-of-Faith</guid>
+    <description>🕯️Prayers Act of Faith O my God, I firmly believe all the truths that the Holy Catholic Church believes and teaches; I believe these truths, O Lord, because You, the infallible Truth, have revealed them to her; in this faith I am resolved to live and die.</description>
+    <pubDate>Fri, 27 Jun 2025 16:15:33 GMT</pubDate>
+  </item><item>
+    <title>Act of Hope</title>
+    <link>https://quartz.jzhao.xyz/Act-of-Hope</link>
+    <guid>https://quartz.jzhao.xyz/Act-of-Hope</guid>
+    <description>🕯️Prayers Act of Hope O my God, relying on Your promises, I hope that, through the infinite merits of Jesus Christ, You will grant me pardon of my sins, and the graces necessary to serve you in this life and to obtain eternal happiness in the next.</description>
+    <pubDate>Fri, 27 Jun 2025 16:15:33 GMT</pubDate>
+  </item><item>
+    <title>Act of Love</title>
+    <link>https://quartz.jzhao.xyz/Act-of-Love</link>
+    <guid>https://quartz.jzhao.xyz/Act-of-Love</guid>
+    <description>🕯️Prayers Act of Love O my God, I love You with my whole heart and above all things, because You are infinitely good and perfect; and I love my neighbor as myself for love of You.</description>
+    <pubDate>Fri, 27 Jun 2025 16:15:33 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
